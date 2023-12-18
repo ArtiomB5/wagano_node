@@ -1,0 +1,26 @@
+Node.js Streams для чайников или как работать с потоками
+https://habr.com/ru/articles/479048/
+
+Node.js: работа с файловой системой
+https://habr.com/ru/companies/timeweb/articles/678792/
+
+Переменные окружения в Node.js: полное руководство
+https://habr.com/ru/companies/otus/articles/779852/
+
+Как создать приложение для чата в реальном времени с помощью React, Node, Socket.io и HarperDB
+https://habr.com/ru/companies/otus/articles/778594/
+
+Лучшие практики безопасности Node.js
+https://habr.com/ru/companies/otus/articles/706000/
+
+Создание «Google Sheets» через Websockets на Node.js
+https://habr.com/ru/articles/718780/
+
+https://habr.com/ru/users/Kilor/
+
+https://habr.com/ru/articles/485294/
+
+Node.js: использование веб-потоков
+https://habr.com/ru/companies/timeweb/articles/675676/
+https://habr.com/ru/companies/timeweb/articles/676210/
+https://habr.com/ru/companies/otus/articles/654251/
